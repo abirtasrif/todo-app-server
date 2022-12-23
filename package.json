@@ -1,0 +1,14 @@
+{
+  "name": "todo-app-server",
+  "version": "1.0.0",
+  "description": "A simple json server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Abir Tasrif Anto",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}
